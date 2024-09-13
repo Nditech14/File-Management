@@ -1,0 +1,6 @@
+@TemplateADLS_HostAddress = http://localhost:5080
+
+GET {{TemplateADLS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
